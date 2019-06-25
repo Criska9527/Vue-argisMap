@@ -69,15 +69,14 @@ export default {
 };
 </script>
 <style lang="stylus" scoped>
+@import '~styles/varibles.styl'
+@import '~styles/mixins.styl'
 .change-content
-  position: absolute;
+  defaultdiv()
   bottom: 0.32rem;
   right: 0.2rem;
   font-size: 0.28rem;
-  background: rgba(0, 132, 255, 0.8);
   text-align: center;
-  border-radius: 0.24rem;
-  color: #fff;
   cursor: pointer;
   .change-img
     width: 1.32rem;
