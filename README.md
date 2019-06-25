@@ -1,4 +1,4 @@
-##Arcgis for js结合vue
+## Arcgis for js结合vue
     使用地图api为Arcgis for js 3.x,前端技术栈：Vue+vuex+axios+webpack
 ```
 目前已完成功能：
