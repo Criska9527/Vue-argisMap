@@ -1,0 +1,39 @@
+{
+	"status": 1,
+	"info": "success",
+	"data": [{
+		"regionName": "a",
+		"dustLocal_type": "建筑类",
+		"dustLocal_name": "食品",
+		"dustLocal_code": "0025",
+		"Yc": "55",
+		"PM10": "15",
+		"PM25": "10",
+		"JD": "116.511",
+		"WD": "39.838",
+		"moniterTime":"2019-02-05 12:45:00"
+	}, {
+		"regionName": "a",
+		"dustLocal_type": "房屋类",
+		"dustLocal_name": "食品1",
+		"dustLocal_code": "0025",
+		"Yc": "55",
+		"PM10": "15",
+		"PM25": "10",
+		"JD": "116.554",
+		"WD": "39.981",
+		"moniterTime":"2019-02-05 12:45:00"
+	}, {
+		"regionName": "a",
+		"dustLocal_type": "商品类",
+		"dustLocal_name": "食品2",
+		"dustLocal_code": "0025",
+		"Yc": "55",
+		"PM10": "15",
+		"PM25": "10",
+		"JD": "116.5646",
+		"WD": "39.922",
+		"moniterTime":"2019-02-05 12:45:00"
+	}],
+	"legend": ["交通", "生活小区"]
+}

@@ -1,0 +1,52 @@
+{
+    "count":{
+        "units":"mg/L",
+        "factor": "COD",
+        "data1":[{"name":"2019-02-03","value":22},{"name":"2019-02-04","value":50}],
+        "xAxis":["2019-02-03","2019-02-04","2019-02-05","2019-02-06","2019-02-07","2019-02-08","2019-02-09"],
+        "data":[22,150,160,80,75,135,14]
+    },
+    "data": [{
+        "super_time": "2019-02-03",
+        "factor": "总磷",
+        "concentrate": "1245",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2019-02-04",
+        "factor": "COD",
+        "concentrate": "123",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2019-02-05",
+        "factor": "总磷",
+        "concentrate": "345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2019-02-06",
+        "factor": "氨氮",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2019-02-07",
+        "factor": "COD",
+        "concentrate": "125",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2019-02-08",
+        "factor": "氨氮",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2019-02-03",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    }]
+}

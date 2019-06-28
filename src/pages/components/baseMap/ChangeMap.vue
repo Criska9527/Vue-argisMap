@@ -31,7 +31,7 @@ export default {
     },
     map:{
         get(){
-          return this.$store.state.map;
+          return this.$store.state.map
         }
     }
   },
@@ -57,7 +57,7 @@ export default {
                map.addLayer(basemap)
            }
            console.log(map)
-               //将类型传递给store并改变值
+           //将类型传递给store并改变值
            this.$store.commit("changetype", this.maptype);
         
             

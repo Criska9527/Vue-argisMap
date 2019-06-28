@@ -1,0 +1,52 @@
+{
+    "count":{
+        "units":"mg/L",
+        "factor": "二氧化硫",
+        "xAxis":["2019-02-03","2019-02-04","2019-02-05","2019-02-06","2019-02-07","2019-02-08","2019-02-09"],
+        "data":[100,110,130,180,95,135,154]
+    },
+ 
+    "data": [{
+        "super_time": "2018-02-03",
+        "factor": "烟尘",
+        "concentrate": "12",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-04",
+        "factor": "折算烟尘",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-05",
+        "factor": "烟尘",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-06",
+        "factor": "烟尘",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-07",
+        "factor": "折算烟尘",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-08",
+        "factor": "流量",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-03",
+        "factor": "流量",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    }]
+}

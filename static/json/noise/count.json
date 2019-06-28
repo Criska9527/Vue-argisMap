@@ -1,0 +1,46 @@
+{
+	"status": 1,
+	"info": "success",
+	"data": [{
+		"regionName": "a",
+		"noise_type": "交通",
+		"point_name": "食品",
+		"point_code": "0025",
+		"streetName": "朝阳街",
+		"Leq": 15,
+		"Leq10": 10,
+		"Leq50": 99,
+		"Leq90": 55,
+		"JD": "116.511",
+		"WD": "39.838",
+		"cp_online": "是"
+	}, {
+		"regionName": "a",
+		"noise_type": "交通",
+		"point_name": "食品点",
+		"point_code": "0026",
+		"streetName": "东风街",
+		"Leq": 15,
+		"Leq10": 10,
+		"Leq50": 99,
+		"Leq90": 55,
+		"JD": "116.554",
+		"WD": "39.981",
+		"cp_online": "是"
+	}, {
+		"regionName": "a",
+		"noise_type": "交通",
+		"point_name": "陆拾伍",
+		"point_code": "0027",
+		"streetName": "酒仙桥",
+		"Leq": 15,
+		"Leq10": 10,
+		"Leq50": 99,
+		"Leq90": 55,
+		"JD": "116.5646",
+		"WD": "39.922",
+		"cp_online": "是"
+	}],
+	"legend": ["交通", "生活小区"]
+
+}

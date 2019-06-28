@@ -1,0 +1,19 @@
+{
+	"data":[
+		{
+			"PH":"8",
+			"ANN":"12",
+			"P":"13",
+			"COD":"300",
+			"flow":"100",
+			"W_level":"300",
+			"O2":"12",
+			"turbidity":"500",
+			"temperature":"20",
+			"conductivity":"50",
+			"d_time":"2019-03-21 7:00:00",
+			"StationId":"78"
+		}
+	]
+}
+

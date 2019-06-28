@@ -1,0 +1,119 @@
+{
+	"status": 1,
+	"info": "success",
+	"_comment": {
+		"": "查询接口",
+		"typeNum": "污染源类型标识：1重型柴油车|非道路机械，2重型柴油车，3非道路机械"
+	},
+	"data": [{
+		"regionName": "a",
+		"motor_type": "重型柴油车|非道路机械",
+		"motor_name": "食品",
+		"motor_code": "0025",
+		"streetName": "朝阳街",
+		"heavyNum": 15,
+		"iLoadNum": 10,
+		"lawEnforcement":55,
+		"typeNum":1,
+		"JD": "116.511",
+		"WD": "39.838"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车|非道路机械",
+		"motor_name": "食品点",
+		"motor_code": "0026",
+		"streetName": "东风街",
+		"heavyNum": 15,
+		"iLoadNum": 10,
+		"lawEnforcement":55,
+		"typeNum":1,
+		"JD": "116.554",
+		"WD": "39.981"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车|非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 15,
+		"iLoadNum": 10,
+		"lawEnforcement":55,
+		"typeNum":1,
+		"JD": "116.5646",
+		"WD": "39.922"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 15,
+		"iLoadNum": 0,
+		"lawEnforcement":55,
+		"typeNum":2,
+		"JD": "116.5646",
+		"WD": "39.922"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 15,
+		"iLoadNum": 0,
+		"lawEnforcement":55,
+		"typeNum":2,
+		"JD": "116.5643",
+		"WD": "39.9113"	
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 15,
+		"iLoadNum": 0,
+		"lawEnforcement":55,
+		"typeNum":2,
+		"JD": "116.5748",
+		"WD": "39.9829"	
+	}, {
+		"regionName": "a",
+		"motor_type": "非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 0,
+		"iLoadNum": 10,
+		"lawEnforcement":55,
+		"typeNum":3,
+		"JD": "116.5748",
+		"WD": "39.9829"	
+	}, {
+		"regionName": "a",
+		"motor_type": "非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 0,
+		"iLoadNum": 10,
+		"lawEnforcement":55,
+		"typeNum":3,
+		"JD": "116.5748",
+		"WD": "39.9829"	
+	}, {
+		"regionName": "a",
+		"motor_type": "非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"streetName": "酒仙桥",
+		"heavyNum": 0,
+		"iLoadNum": 10,
+		"lawEnforcement":55,
+		"typeNum":3,
+		"JD": "116.5748",
+		"WD": "39.9829"	
+	}],
+	"legend": ["交通", "生活小区"]
+
+}

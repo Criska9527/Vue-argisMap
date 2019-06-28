@@ -1,0 +1,28 @@
+{
+    "_comment": {
+        "data1":"企业基本信息",
+        "data2": "企业详细信息"
+    },
+    "data1": {
+        "comp_name": " ",
+        "legal_person": " ",
+        "linkman": " ",
+        "phone": " ",
+        "area": " ",
+        "comp_address": " ",
+        "trade_type": " "
+    },
+    "data2": {
+        "p_name": "a12",
+        "p_short": "a12",
+        "p_code": "a12",
+        "cp_phone": "a12",
+        "cp_email": "a12",
+        "cp_status": "a12",
+        "b_license_code": "a12",
+        "og_code": "a12",
+        "trade_type": "a12",
+        "sp_ grade": "a12",
+        "cp_address": "a12",
+    }
+}

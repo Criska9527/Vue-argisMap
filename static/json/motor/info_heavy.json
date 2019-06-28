@@ -1,0 +1,127 @@
+{
+	"status": "租赁",
+	"info": "success",
+	"_comment": {
+		"": "查询接口",
+		"useTye": "污染源类型标识：1重型柴油车|非道路机械，2重型柴油车，3非道路机械"
+	},
+	"data": [{
+		"regionName": "a",
+		"motor_name": "食品",
+		"motor_code": "0025",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": 10,
+		"plateType":"大型车",
+		"useTye":"租赁",
+		"JD": "116.511",
+		"WD": "39.838",
+		"auditStatus":"通过"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车|非道路机械",
+		"motor_name": "食品点",
+		"motor_code": "0026",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": 10,
+		"plateType":"大型车",
+		"useTye":"租赁",
+		"JD": "116.554",
+		"WD": "39.981",
+		"auditStatus":"通过"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车|非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": 10,
+		"plateType":"大型车",
+		"useTye":"租赁",
+		"JD": "116.5646",
+		"WD": "39.922",
+		"auditStatus":"通过"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车",
+		"motor_name": "陆拾伍",
+		"motor_code": "115826",
+		"plateNumber": "酒仙桥",
+		"plateModel": "宇通",
+		"emissionStan": "通过",
+		"plateType":"大型车",
+		"useTye":"自用",
+		"JD": "116.5646",
+		"WD": "39.922",
+		"auditStatus":"通过"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车",
+		"motor_name": "陆拾伍",
+		"motor_code": "115826",
+		"plateNumber": "酒仙桥",
+		"plateModel":"宇通",
+		"emissionStan": "通过",
+		"plateType":"大型车",
+		"useTye":"自用",
+		"JD": "116.5643",
+		"WD": "39.9113"	,
+		"auditStatus":"通过"
+	}, {
+		"regionName": "a",
+		"motor_type": "重型柴油车",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": "通过",
+		"plateType":"大型车",
+		"useTye":"自用",
+		"JD": "116.5748",
+		"WD": "39.9829",
+		"auditStatus":"通过"	
+	}, {
+		"regionName": "a",
+		"motor_type": "非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": 10,
+		"plateType":"大型车",
+		"useTye":"自用",
+		"JD": "116.5748",
+		"WD": "39.9829",
+		"auditStatus":"通过"	
+	}, {
+		"regionName": "a",
+		"motor_type": "非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": 10,
+		"plateType":"大型车",
+		"useTye":"自用",
+		"JD": "116.5748",
+		"WD": "39.9829",
+		"auditStatus":"未通过"	
+	}, {
+		"regionName": "a",
+		"motor_type": "非道路机械",
+		"motor_name": "陆拾伍",
+		"motor_code": "0027",
+		"plateNumber": "115826",
+		"plateModel": "宇通",
+		"emissionStan": 10,
+		"plateType":"大型车",
+		"useTye":"自用",
+		"JD": "116.5748",
+		"WD": "39.9829",
+		"auditStatus":"未通过"	
+	}],
+	"legend": ["交通", "生活小区"]
+
+}

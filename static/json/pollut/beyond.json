@@ -1,0 +1,58 @@
+{
+    "_comment": {
+        "":"超标",
+        "pollut_flag": ""
+    },
+    "data": [{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"12"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    },{
+        "outlet_name": "朝阳污水厂进水口",
+        "by_factor": "pH值",
+        "by_value":"16"
+    }]}

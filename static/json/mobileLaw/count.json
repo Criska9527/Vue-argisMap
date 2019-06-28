@@ -1,0 +1,107 @@
+{
+
+	"_comment": {
+		"": "查询接口",
+		"pollut_flag": "污染源类型标识：1废水，2废气，3废水，废气"
+	},
+
+	"data": [{
+		"Reg": "a",
+		"pollut_name": "朝阳污水厂1",
+		"comp_code": "10",
+		"pollut_type": "废水",
+		"pollut_flag": "1",
+		"trade_type": "食品",
+		"contr_grade": "国控",
+		"JD": "116.511",
+		"WD": "39.838",
+		"cp_online": "是"
+	}, {
+		"Reg": "a",
+		"pollut_name": "朝阳污水厂2",
+		"comp_code": "10",
+		"pollut_type": "废气",
+		"pollut_flag": "2",
+		"trade_type": "化工",
+		"contr_grade": "省控",
+		"JD": "116.554",
+		"WD": "39.881",
+		"cp_online": "是"
+	}, {
+		"Reg": "a",
+		"pollut_name": "朝阳污水厂3",
+		"comp_code": "10",
+		"pollut_type": "废水、废气",
+		"pollut_flag": "3",
+		"trade_type": "化工",
+		"contr_grade": "省控",
+		"JD": "116.554",
+		"WD": "39.981",
+		"cp_online": "是"
+	}, {
+		"Reg": "a",
+		"pollut_name": "朝阳污水厂4",
+		"comp_code": "10",
+		"pollut_type": "废水",
+		"pollut_flag": "1",
+		"trade_type": "食品",
+		"contr_grade": "国控",
+		"JD": "116.511",
+		"WD": "39.898",
+		"cp_online": "是"
+	}, {
+		"Reg": "a",
+		"pollut_name": "朝阳污水厂5",
+		"comp_code": "10",
+		"pollut_type": "废气",
+		"pollut_flag": "2",
+		"trade_type": "化工",
+		"contr_grade": "省控",
+		"JD": "116.594",
+		"WD": "39.921",
+		"cp_online": "是"
+	}, {
+		"Reg": "a",
+		"pollut_name": "朝阳污水厂6",
+		"comp_code": "10",
+		"pollut_type": "废水、废气",
+		"pollut_flag": "3",
+		"trade_type": "化工",
+		"contr_grade": "省控",
+		"JD": "116.534",
+		"WD": "39.941",
+		"cp_online": "是"
+	}],
+	"pollut_type": [{
+			"value": 10,
+			"name": "废水"
+		},
+		{
+			"value": 12,
+			"name": "废气"
+		},
+		{
+			"value": 13,
+			"name": "噪声"
+		},
+		{
+			"value": 20,
+			"name": "土壤"
+		}
+	],
+	"contr_grade": [{
+			"value": 10,
+			"name": "国控"
+		},
+		{
+			"value": 23,
+			"name": "省控"
+		},
+		{
+			"value": 18,
+			"name": "市控"
+		}
+	],
+	"legend": ["废水", "废气", "噪声", "土壤", "国控", "省控", "市控"]
+
+}

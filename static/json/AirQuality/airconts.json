@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "Pollutlevel":"优",
+            "conts": 10
+        },
+        {
+            "Pollutlevel":"良",
+            "conts": 5
+        },
+        {
+            "Pollutlevel":"中",
+            "conts": 16
+        },
+        {
+            "Pollutlevel":"轻度污染",
+            "conts": 4
+        },
+        {
+            "Pollutlevel":"中度污染",
+            "conts": 11
+        },
+        {
+            "Pollutlevel":"重度污染",
+            "conts": 3
+        },
+        {
+            "Pollutlevel":"严重污染",
+            "conts": 2
+        }
+    ]
+}

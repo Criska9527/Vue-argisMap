@@ -1,0 +1,125 @@
+{
+    "KQtj":[
+        {
+            "days":"周一",
+            "You": 11,
+            "Liang": 26,
+            "Qw": 40,
+            "Zw": 12,
+            "Zdw": 8,
+            "Yw": 3
+        },
+        {
+            "days":"周二",
+            "You": 20,
+            "Liang": 26,
+            "Qw": 27,
+            "Zw": 12,
+            "Zdw": 10,
+            "Yw": 5
+        },
+        {
+            "days":"周三",
+            "You": 3,
+            "Liang": 36,
+            "Qw": 10,
+            "Zw": 32,
+            "Zdw": 8,
+            "Yw": 11
+        },
+        {
+            "days":"周四",
+            "You": 11,
+            "Liang": 26,
+            "Qw": 40,
+            "Zw": 12,
+            "Zdw": 8,
+            "Yw": 3
+        },
+        {
+            "days":"周五",
+            "You": 11,
+            "Liang": 26,
+            "Qw": 40,
+            "Zw": 12,
+            "Zdw": 8,
+            "Yw": 3
+        },
+        {
+            "days":"周六",
+            "You": 40,
+            "Liang": 12,
+            "Qw": 11,
+            "Zw": 26,
+            "Zdw": 8,
+            "Yw": 3
+        },
+        {
+            "days":"周日",
+            "You": 46,
+            "Liang": 26,
+            "Qw": 21,
+            "Zw": 5,
+            "Zdw": 2,
+            "Yw": 0
+        }
+    ],
+    "AQIdb":[
+        {
+            "date":"2018-11",
+            "conts": "33"
+        },
+        {
+            "date":"2018-12",
+            "conts": "28"
+        },
+        {
+            "date":"2019-1",
+            "conts": "46"
+        },
+        {
+            "date":"2019-2",
+            "conts": "79"
+        },
+        {
+            "date":"2019-3",
+            "conts": "60"
+        }
+    ],
+    "kqzl":[
+        {
+            "Pollutlevel":"优",
+            "days": 15
+        },
+        {
+            "Pollutlevel":"良",
+            "days": 19
+        },
+        {
+            "Pollutlevel":"轻度污染",
+            "days": 16
+        },
+        {
+            "Pollutlevel":"中度污染",
+            "days": 10
+        },
+        {
+            "Pollutlevel":"重度污染",
+            "days": 9
+        },
+        {
+            "Pollutlevel":"严重污染",
+            "days": 5
+        }
+    ],
+    "kqzl_db": [
+        {
+            "titlename":"达标天数",
+            "value":34
+        },
+        {
+            "titlename":"未达标天数",
+            "value":40
+        }
+    ]
+}

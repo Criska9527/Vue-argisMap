@@ -1,0 +1,20 @@
+{
+	"status": "2019-01-01 00:00:00",
+	"info": "success",
+	"data": [{
+		"regionName": "东风镇",
+		"motor_type": "重型柴油车|非道路机械",
+		"motor_name": "食品",
+		"motor_code": "0025",
+		"lawMan": "张三",
+		"mobilePhone": "5555566666",
+		"tradeType": "大气",
+		"MoniterTime":"2019-02-10 00:00:00",
+		"localStation":"经纬路",
+		"JD": "116.511",
+		"WD": "39.838",
+		"auditStatus":"通过"
+	}],
+	"legend": ["交通", "生活小区"]
+
+}

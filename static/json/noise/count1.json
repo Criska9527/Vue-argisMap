@@ -1,0 +1,86 @@
+{
+	"status": 1,
+	"info": "success",
+	"data": [{
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "路实录",
+		"point_code": "0028",
+		"streetName": "东八路",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5645",
+		"WD": "39.9113"		
+	}, {
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "陆陆路",
+		"point_code": "0029",
+		"streetName": "助人堡",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5748",
+		"WD": "39.9829"		
+	}, {
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "机场口",
+		"point_code": "0030",
+		"streetName": "嘟堡",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5748",
+		"WD": "39.9829"		
+	}, {
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "火车东站",
+		"point_code": "0033",
+		"streetName": "纬三路",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5748",
+		"WD": "39.9829"		
+	}, {
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "火车西站",
+		"point_code": "0038",
+		"streetName": "纬陆路",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5748",
+		"WD": "39.9829"		
+	}, {
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "火车中站",
+		"point_code": "0036",
+		"streetName": "纬捌路",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5748",
+		"WD": "39.9829"		
+	}, {
+		"regionName": "a",
+		"noise_type": "生活小区",
+		"point_name": "紫金山",
+		"point_code": "0037",
+		"streetName": "纬玖路",
+		"legelMan":"张三",
+		"tellPhone":"3333560",
+		"Leq": 15,
+		"Ld": 10,
+		"Ln": 99,
+		"JD": "116.5325",
+		"WD": "39.91133"		
+	}],
+	"legend": ["交通", "生活小区"]
+
+}

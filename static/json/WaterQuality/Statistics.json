@@ -1,0 +1,73 @@
+{	
+    "Sitename":"朝阳A站",
+	"data":[
+
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-20 13:16:48",
+			"SearchItem":"NH3-N"
+
+		},
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-20 13:06:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-20 11:16:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"劣V",
+			"SearchTime":"2019-03-20 10:16:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-20 9:16:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-20 08:16:48",
+			"SearchItem":"砷"
+
+		},
+		{
+			"WaterQuality":"II",
+			"SearchTime":"2019-03-19 12:16:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"III",
+			"SearchTime":"2019-03-18 12:16:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-17 12:16:48",
+			"SearchItem":"DO"
+
+		},
+		{
+			"WaterQuality":"I",
+			"SearchTime":"2019-03-19 12:16:48",
+			"SearchItem":"PH"
+
+		},
+		{
+			"WaterQuality":"IV",
+			"SearchTime":"2019-03-20 07:16:48",
+			"SearchItem":"PH"
+
+		}
+
+	]
+}

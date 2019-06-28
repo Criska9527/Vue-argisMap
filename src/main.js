@@ -6,6 +6,9 @@ import router from './router'
 import store from './store'
 import 'styles/main.css'
 import '@/assets/font/iconfont.css'
+import axios from 'axios'
+
+Vue.prototype.$axios= axios
 
 Vue.config.productionTip = false
 

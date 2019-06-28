@@ -1,0 +1,88 @@
+{	
+    "Sitename":"朝阳B站",
+    "R_WaterQuality":"I",
+    "Control_level":"国控",
+    "River":"温榆河",
+    "StationId":"78",
+    "SattionImg":"https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture",
+    "C_WaterQuality":"IV",
+    "moreinfo":"xx因子超标",
+    "MeasuringType":"自动监测",
+	"data":[
+		{
+			"hour":[
+				{
+					"PH":"8",
+					"ANN":"12",
+					"P":"13",
+					"COD":"300",
+					"flow":"100",
+					"W_level":"300",
+					"O2":"12",
+					"turbidity":"500",
+					"temperature":"20",
+					"conductivity":"50",
+					"d_time":"2019-03-21 7:00:00",
+					"WaterQuality":"II"
+				}
+
+			],
+			"day":[
+
+				{
+					"PH":"5",
+					"ANN":"9",
+					"P":"11",
+					"COD":"200",
+					"flow":"112",
+					"W_level":"255",
+					"O2":"15",
+					"turbidity":"400",
+					"temperature":"24",
+					"conductivity":"40",
+					"d_time":"2019-03-01",
+					"WaterQuality":"I"
+				}
+			],
+			"days":[
+
+				{
+					"PH":"8",
+					"ANN":"12",
+					"P":"13",
+					"COD":"300",
+					"flow":"100",
+					"W_level":"300",
+					"O2":"15",
+					"turbidity":"500",
+					"temperature":"20",
+					"conductivity":"50",
+					"d_time":"周一",
+					"WaterQuality":"I"
+				}
+
+			],
+			"mouth":[
+
+				{
+					"PH":"8",
+					"ANN":"12",
+					"P":"13",
+					"COD":"300",
+					"flow":"100",
+					"W_level":"300",
+					"O2":"15",
+					"turbidity":"500",
+					"temperature":"20",
+					"conductivity":"50",
+					"d_time":"2019-03",
+					"WaterQuality":"I"
+				}
+
+			]
+			
+			
+		}
+		
+	]
+}

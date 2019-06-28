@@ -1,0 +1,63 @@
+{
+    "count":{
+        "units":"mg/L",
+        "factor": "COD2",
+        "xAxis":["2019-02-03","2019-02-04","2019-02-05","2019-02-06","2019-02-07","2019-02-08","2019-02-09"],
+        "data":[10,50,30,80,45,35,24]
+    },
+    "yrOnyr":{
+        "units":"mg/L",
+        "factor": "COD2",
+        "xAxis":["2013-03","2014-03","2015-03","2016-03","2017-03","2018-03","2019-03"],
+        "data":[10,50,30,80,45,35,24]
+    },
+    "link":{
+        "units":"mg/L",
+        "factor": "COD2",
+        "xAxis":["2018-10","2018-11","2018-12","2019-03","2019-01","2019-02","2019-03"],
+        "data":[20,50,60,80,75,35,14]
+    },
+    "data": [{
+        "super_time": "2018-02-03",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-04",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-05",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-06",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-07",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-08",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    },{
+        "super_time": "2018-02-03",
+        "factor": "COD",
+        "concentrate": "12345",
+        "units": "mg/L",
+        "standard": "是"
+    }]
+}
