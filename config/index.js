@@ -16,6 +16,12 @@ module.exports = {
         pathRewrite: {
           '^/api':'/static/json'
         }
+      },
+      '/layer':{
+        target:'http://localhost:8080',
+        pathRewrite: {
+          '^/layer':'http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Petroleum/KGS_OilGasFields_Kansas/MapServer/0'
+        }
       }
     },
 

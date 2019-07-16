@@ -5,9 +5,7 @@
       <change-map></change-map>
       <map-tool></map-tool>
       <nav-bar></nav-bar>
-      <dig-log>
-        11111
-      </dig-log>
+  
   </div>
 </template>
 <script>

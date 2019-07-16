@@ -62,6 +62,8 @@ export default {
             //根据类型的不同调用不同的方法
             if(type=="point"){
                  this.getdatafind(type)
+            }else if(type=="layer"){
+                this.addLayers(type)
             }
             else{
                 alert('功能尚未开发')
@@ -81,10 +83,15 @@ export default {
             }).then(this.mapshow)
         },
         mapshow(res){
+            //此步骤为访问MapMain组件
             const MapMain = this.$refs.MapMain
             this.data = res.data.data
             MapMain.map_addPoints(this.data,'point')
 
+        },
+        addLayers(){
+             const MapMain = this.$refs.MapMain
+             MapMain.map_addlayer('featurelayer','','test')
         }
     }
 

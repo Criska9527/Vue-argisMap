@@ -40,11 +40,11 @@ export default {
           });
           map.addLayer(drawGraphicsLayer, 1);
           var symbol;
-          console.log(data)
+          console.log(data);
           for (var i = 0; i < data.length; i++) {
             try {
-              var lon = Number(data[i]["lon"]||data[i]["Longitude"]);
-              var lat = Number(data[i]["lat"]||data[i]["Latitude"]);
+              var lon = Number(data[i]["lon"] || data[i]["Longitude"]);
+              var lat = Number(data[i]["lat"] || data[i]["Latitude"]);
               var point = new Point(lon, lat);
               //监测数据符号
               symbol = new PictureMarkerSymbol(
@@ -72,7 +72,7 @@ export default {
             textSym.setColor(new Color([255, 255, 255, 1]));
             var textgraphic = new Graphic(point, textSym);
             drawGraphicsLayer.add(textgraphic);
-            console.log(drawGraphicsLayer)
+            console.log(drawGraphicsLayer);
           }
 
           //图标点击事件
@@ -96,9 +96,14 @@ export default {
 					    }
 					}
 					map.infoWindow.setContent("<iframe frameborder='0' scrolling  ='no' width='100%'  height='" + (infoHeight - 30) + "' src='" + (popwindowParam.url + "?lon=" + attributes['lon'] + "&lat=" + attributes['lat'] + "&id=" + attributes['code'] + "&name=" + attributes["name"]) + "'/>");
-					map.infoWindow.setTitle("<font style = 'font-weight:bold'>" + attributes.name + "</font>");*/
-            map.infoWindow.setTitle(attributes.NAME);
-            // map.infoWindow.setContent("地址：" + attributes.DLWZ);
+          map.infoWindow.setTitle("<font style = 'font-weight:bold'>" + attributes.name + "</font>");*/
+            console.log(attributes);
+            map.infoWindow.setTitle(attributes.SiteName);
+            let html = `<ul>
+                         <li>所在流域:${attributes.RiverRegion}</li>
+                         <li>类型:${attributes.ControlClassify}</li>
+                        </ul>`;
+            map.infoWindow.setContent(html);
             map.infoWindow.show(mapPoint);
           }
 
@@ -124,6 +129,31 @@ export default {
           }
         }
       );
+    },
+    map_addlayer(type, url, id) {
+      const map = this.map;
+      loadModules([
+        "esri/layers/ArcGISDynamicMapServiceLayer",
+        "esri/layers/FeatureLayer"
+      ]).then(([ArcGISDynamicMapServiceLayer, FeatureLayer]) => {
+        let url;
+        let layer;
+        if (type == "featurelayer") {
+          layer = new FeatureLayer("/layer", {
+            mode: FeatureLayer.MODE_ONDEMAND,
+            outFields: ["*"],
+            id: id
+          });
+        } else {
+          new ArcGISDynamicMapServiceLayer(
+            "http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Louisville/LOJIC_LandRecords_Louisville/MapServer",
+            {
+              useMapImage: true
+            }
+          );
+        }
+        map.addLayer(layer);
+      });
     }
   }
 };
